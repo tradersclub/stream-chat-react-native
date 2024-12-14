@@ -2526,9 +2526,9 @@ mz@^2.7.0:
     thenify-all "^1.0.0"
 
 nanoid@^3.3.1:
-  version "3.3.6"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.6.tgz#443380c856d6e9f9824267d960b4236ad583ea4c"
-  integrity sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==
+  version "3.3.8"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.8.tgz#b1be3030bee36aaff18bacb375e5cce521684baf"
+  integrity sha512-WNLf5Sd8oZxOm+TzppcYk8gVOgP+l58xNy58D0nbUnOxOWRWvlcCV4kUF7ltmI6PsrLl/BgKEyS4mqsGChFN0w==
 
 nice-try@^1.0.4:
   version "1.0.5"
@@ -2929,10 +2929,10 @@ stream-buffers@2.2.x:
   resolved "https://registry.yarnpkg.com/stream-buffers/-/stream-buffers-2.2.0.tgz#91d5f5130d1cef96dcfa7f726945188741d09ee4"
   integrity sha512-uyQK/mx5QjHun80FLJTfaWE7JtwfRMKBLkMne6udYOmvH0CawotVa7TfgYHzAnpphn4+TweIx1QKMnRIbipmUg==
 
-stream-chat-react-native-core@5.39.2:
-  version "5.39.2"
-  resolved "https://registry.yarnpkg.com/stream-chat-react-native-core/-/stream-chat-react-native-core-5.39.2.tgz#fd4a09ac47684056214ddfa90d11c5df07131ca2"
-  integrity sha512-aqAURELT3rY686VVLOBOXZvJ9YO5CM9rcXzpUtkwySuprWO1cNBevnDYJkWPpQkAjD9fXUa6ydC6UJkZiibGmA==
+stream-chat-react-native-core@5.39.3:
+  version "5.39.3"
+  resolved "https://registry.yarnpkg.com/stream-chat-react-native-core/-/stream-chat-react-native-core-5.39.3.tgz#ef9257106291c9a289e7f0019bd5268d0972d0b9"
+  integrity sha512-ksru6JLucW/ki+UbfbUQ+OjxcupUwW+URjHo9EROxgiW25hy9LD9iSb9PPJ5MfPhd1nY9wnewHGAznhrx+nqgA==
   dependencies:
     "@gorhom/bottom-sheet" "^4.6.4"
     dayjs "1.10.5"
